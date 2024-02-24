@@ -1,1 +1,1 @@
-echo sniper
+echo $USER is awesome
